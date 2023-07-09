@@ -1,6 +1,7 @@
-langchain==0.0.149
+langchain==0.0.149 #had to manually install langchain 
 python-dotenv==1.0.0
 supabase==1.0.3
 tiktoken==0.3.3
 openai
 # dotenv
+GitPython #added
